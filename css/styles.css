@@ -1,0 +1,17 @@
+.container{
+    text-align: left;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+body{
+    background-color: coral;
+    color:wheat;
+}
+
+.form{
+    text-align: center;
+    border:5px solid wheat;
+    border-radius: 2em;
+    padding: 0.6em;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
